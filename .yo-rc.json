@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "skills",
+    "libraryId": "8697296a-45ab-454f-a7c9-ed4f0da1b768",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "skills",
+    "solutionShortDescription": "skills description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
